@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Pradnya 👋</h1>
 
 <h3 align="center">
-  Frontend Developer | Software Engineering Enthusiast | Informatics Education Graduate
+  Fullstack Developer | Software Engineering Enthusiast
 </h3>
 
 <p align="center">
   <a href="mailto:agungpradnya7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-agungpradnya7%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-agungpradnya7%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/pradnyaprameswara/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pradnya%20Prameswara-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Pradnya%20Prameswara-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://pradnyaprameswara.github.io/PradnyaPrameswara/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat-square&logo=google-chrome" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat-square&logo=google-chrome" />
   </a>
 </p>
 
@@ -20,86 +20,42 @@
 
 ## About Me
 
-I am a Bachelor of Informatics Education graduate from **Universitas Pendidikan Ganesha (UNDIKSHA)** with a strong interest in **Frontend Development**, **Web Engineering**, and **Intelligent Learning Systems**.
+I am an Informatics Education graduate from **Universitas Pendidikan Ganesha (UNDIKSHA)** with an interest in **Fullstack Development**, **Software Engineering**, and **Educational Technology**.
 
-I enjoy building clean, scalable, and user-focused digital products. My academic research focused on developing an **intelligent diagnostic assessment system using Large Language Models (LLM)** to detect students’ initial abilities.
-
-Beyond development, I have experience in teaching and mentoring students in programming fundamentals, including intensive C++ training for competition preparation.
+I enjoy building clean, responsive, and user-focused web applications. My academic research focused on developing an **LLM-based diagnostic assessment system** to detect students’ initial abilities.
 
 ---
 
-## Current Focus
+## Tech Stack
 
-- Building modern and responsive web applications
-- Improving frontend architecture and UI/UX implementation
-- Exploring AI-assisted learning systems and educational technology
-- Strengthening fullstack development skills using React, Next.js, Laravel, Flask, and database technologies
-
----
-
-## Technical Skills
-
-### Programming Languages
-
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,php,cpp,js,ts,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### Frontend Development
-
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,flask,java,cpp" />
 </p>
 
-### Backend & Database
-
+### Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,mysql,postgresql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,gcp" />
 </p>
 
-### Tools & Platforms
-
+### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,gcp,figma,postman,electron,flutter" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,figma,postman,git,github" />
 </p>
 
 ---
 
-## Experience Highlights
+## Highlights
 
-- Developed web-based applications with a focus on usability, scalability, and maintainable code.
-- Conducted academic research on an **LLM-based diagnostic assessment system** for student ability detection.
-- Mentored students in C++ programming and helped them achieve **Juara Harapan 1** in a programming competition.
-- Collaborated in technical and organizational teams, including student faculty initiatives and the **Kontes Robot Terbang Indonesia (KRTI)** team.
-
----
-
-## Featured Interests
-
-- Frontend Engineering
-- Fullstack Web Development
-- Educational Technology
-- Artificial Intelligence in Learning
-- Database Management
-- UI/UX Implementation
-
----
-
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pradnyaprameswara/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/agungame/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:agungpradnya7@gmail.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" />
-  </a>
-</p>
+- Fullstack developer with strong frontend implementation skills.
+- Experienced in building modern and responsive web applications.
+- Researched an **LLM-based intelligent diagnostic assessment system**.
+- Mentored students in C++ programming for competition preparation.
 
 ---
 
