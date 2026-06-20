@@ -40,21 +40,25 @@ Beyond development, I have experience in teaching and mentoring students in prog
 ## Technical Skills
 
 ### Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,php,cpp,js,ts,dart" />
 </p>
 
 ### Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### Backend & Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,flask,nodejs,mysql,postgresql,firebase" />
 </p>
 
 ### Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker,nginx,gcp,figma,postman,electron,flutter" />
 </p>
@@ -99,11 +103,7 @@ Beyond development, I have experience in teaching and mentoring students in prog
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradnyaprameswara&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+## GitHub Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradnyaprameswara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -113,4 +113,15 @@ Beyond development, I have experience in teaching and mentoring students in prog
 
 <p align="center">
   <i>“Building efficient, scalable, and meaningful technology solutions.”</i>
+</p>
+
+<br />
+
+<p align="center">
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJsNzEwaDluMzhncXk3Z284bmFydWxkcXVuZjc5OHBjZTBqNWxidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JKCSoloVTGjmWQ/giphy.gif" 
+    alt="Footer Developer Banner" 
+    width="100%" 
+    height="250"
+  />
 </p>
