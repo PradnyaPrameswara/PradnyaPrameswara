@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/pradnyaprameswara/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pradnya%20Prameswara-blue?style=flat-square&logo=linkedin" />
   </a>
+  <a href="https://www.instagram.com/agungame/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40agungame-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://pradnyaprameswara.github.io/PradnyaPrameswara/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat-square&logo=google-chrome" />
   </a>
@@ -56,6 +59,24 @@ I enjoy building clean, responsive, and user-focused web applications. My academ
 - Experienced in building modern and responsive web applications.
 - Researched an **LLM-based intelligent diagnostic assessment system**.
 - Mentored students in C++ programming for competition preparation.
+
+---
+
+## Reach Me
+
+<p align="left">
+  <a href="https://www.instagram.com/agungame/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pradnyaprameswara/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:agungpradnya7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+  </a>
+</p>
 
 ---
 
