@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/agungame/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40agungame-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://pradnyaprameswara.github.io/PradnyaPrameswara/" target="_blank">
+  <a href="https://www.pradnyaprameswara.web.id/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat-square&logo=google-chrome" />
   </a>
 </p>
