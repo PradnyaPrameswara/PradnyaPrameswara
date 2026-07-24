@@ -1,104 +1,56 @@
 <h1 align="center">Hi, I'm Pradnya 👋</h1>
 
-<h3 align="center">
-  Fullstack Developer | Software Engineering Enthusiast
-</h3>
+<p align="center">
+  <strong>Fullstack Developer · Software Engineering Enthusiast</strong>
+</p>
 
 <p align="center">
   <a href="mailto:agungpradnya7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-agungpradnya7%40gmail.com-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/pradnyaprameswara/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pradnya%20Prameswara-blue?style=flat-square&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/pradnyaprameswara/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/agungame/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40agungame-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/agungame/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.pradnyaprameswara.web.id/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat-square&logo=google-chrome" />
-  </a>
-</p>
-
----
-
-## About Me
-
-I am an Informatics Education graduate from **Universitas Pendidikan Ganesha (UNDIKSHA)** with an interest in **Fullstack Development**, **Software Engineering**, and **Educational Technology**.
-
-I enjoy building clean, responsive, and user-focused web applications. My academic research focused on developing an **LLM-based diagnostic assessment system** to detect students’ initial abilities.
-
----
-
-## Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,flask,java,cpp" />
-</p>
-
-### Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,gcp" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,figma,postman,git,github" />
-</p>
-
----
-
-## Highlights
-
-- Fullstack developer with strong frontend implementation skills.
-- Experienced in building modern and responsive web applications.
-- Researched an **LLM-based intelligent diagnostic assessment system**.
-- Mentored students in C++ programming for competition preparation.
-
----
-
-## Reach Me
-
-<p align="left">
-  <a href="https://www.instagram.com/agungame/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/pradnyaprameswara/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:agungpradnya7@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+  <a href="https://www.pradnyaprameswara.web.id/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-## GitHub Languages
+### About Me
+
+Informatics Education graduate from **Universitas Pendidikan Ganesha** with interests in fullstack development, software engineering, and educational technology.
+
+I build clean, responsive, and user-focused web applications. My academic research focused on an **LLM-based diagnostic assessment system** for identifying students' initial abilities.
+
+### Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradnyaprameswara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,laravel,python,flask,mysql,postgresql,firebase,docker,git,github,figma,postman&perline=10" alt="Technology Stack" />
 </p>
 
----
+### Highlights
+
+* Building modern, responsive, and maintainable web applications
+* Fullstack development with strong frontend implementation skills
+* Researching AI and LLM applications in educational technology
+* Mentoring students in C++ programming and competition preparation
+
+### GitHub Statistics
 
 <p align="center">
-  <i>“Building efficient, scalable, and meaningful technology solutions.”</i>
-</p>
-
-<br />
-
-<p align="center">
-  <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJsNzEwaDluMzhncXk3Z284bmFydWxkcXVuZjc5OHBjZTBqNWxidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JKCSoloVTGjmWQ/giphy.gif" 
-    alt="Footer Developer Banner" 
-    width="100%" 
-    height="250"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradnyaprameswara&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
   />
+</p>
+
+---
+
+<p align="center">
+  <i>Building efficient, scalable, and meaningful technology solutions.</i>
 </p>
