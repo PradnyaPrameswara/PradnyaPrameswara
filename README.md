@@ -62,19 +62,6 @@ My academic research focused on developing an **LLM-based diagnostic assessment 
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradnyaprameswara&theme=tokyonight"
-    alt="GitHub Statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pradnyaprameswara&theme=tokyonight&utcOffset=8"
-    alt="Productive Time"
-  />
-</p>
-
-<p align="center">
-  <img
     width="98%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradnyaprameswara&theme=tokyonight"
     alt="GitHub Profile Details"
