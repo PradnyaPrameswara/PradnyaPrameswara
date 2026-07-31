@@ -62,29 +62,32 @@ abilities and support more personalized learning.
   />
 </p>
 
-## GitHub Profile Summary
+## GitHub Activity
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/PradnyaPrameswara/PradnyaPrameswara/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
-    alt="Pradnya Prameswara GitHub Profile Details"
-  />
+  <a href="https://github.com/PradnyaPrameswara">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://gitcolors.vercel.app/api/svg?username=PradnyaPrameswara&color=39d353&theme=dark&mode=levels"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://gitcolors.vercel.app/api/svg?username=PradnyaPrameswara&color=216e39&theme=light&mode=levels"
+      />
+      <img
+        width="100%"
+        src="https://gitcolors.vercel.app/api/svg?username=PradnyaPrameswara&color=216e39&theme=light&mode=levels"
+        alt="Pradnya Prameswara GitHub contribution graph"
+      />
+    </picture>
+  </a>
 </p>
 
-## GitHub Statistics
-
 <p align="center">
-  <img
-    width="49%"
-    src="https://raw.githubusercontent.com/PradnyaPrameswara/PradnyaPrameswara/main/profile-summary-card-output/tokyonight/3-stats.svg"
-    alt="Pradnya Prameswara GitHub Statistics"
-  />
-  <img
-    width="49%"
-    src="https://raw.githubusercontent.com/PradnyaPrameswara/PradnyaPrameswara/main/profile-summary-card-output/tokyonight/4-productive-time.svg"
-    alt="Pradnya Prameswara Productive Time"
-  />
+  <sub>
+    Public and anonymized private contributions from the last year.
+  </sub>
 </p>
 
 ## Most Used Languages
@@ -104,7 +107,7 @@ abilities and support more personalized learning.
 
 <p align="center">
   <sub>
-    Statistics include eligible public and private repository activity.
+    Language statistics are calculated from eligible public and private repositories.
     Private repository names and sensitive information remain hidden.
   </sub>
 </p>
