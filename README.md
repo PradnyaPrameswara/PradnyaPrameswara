@@ -10,16 +10,28 @@
 
 <p align="center">
   <a href="mailto:agungpradnya7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
   <a href="https://www.linkedin.com/in/pradnyaprameswara/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://www.instagram.com/agungame/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
   <a href="https://www.pradnyaprameswara.web.id/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=google-chrome&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 </p>
 
@@ -27,17 +39,19 @@
 
 ## About Me
 
-I am an **Informatics Education graduate** from **Universitas Pendidikan Ganesha**, focused on fullstack development, software engineering, artificial intelligence, and educational technology.
+I am an **Informatics Education graduate** from
+**Universitas Pendidikan Ganesha**, with interests in fullstack development,
+software engineering, artificial intelligence, and educational technology.
 
-My academic research explored an **LLM-based diagnostic assessment system** designed to identify students' initial abilities and support more personalized learning.
+My academic research focused on developing an
+**LLM-based diagnostic assessment system** to identify students' initial
+abilities and support more personalized learning.
 
-### What I Do
-
-* Develop responsive and maintainable fullstack web applications
-* Build structured frontend interfaces with reusable components
-* Design backend systems, APIs, databases, and application workflows
-* Explore AI and LLM applications in educational technology
-* Mentor students in C++ programming and competition preparation
+- Develop responsive and maintainable fullstack web applications
+- Build structured frontend interfaces with reusable components
+- Design backend systems, APIs, databases, and application workflows
+- Explore AI and LLM applications in educational technology
+- Mentor students in C++ programming and competition preparation
 
 ## Technology Stack
 
@@ -48,26 +62,28 @@ My academic research explored an **LLM-based diagnostic assessment system** desi
   />
 </p>
 
-## GitHub Activity
+## GitHub Profile Summary
 
 <p align="center">
   <img
-    width="98%"
-    src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
-    alt="GitHub Profile Details"
+    width="100%"
+    src="https://raw.githubusercontent.com/PradnyaPrameswara/PradnyaPrameswara/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
+    alt="Pradnya Prameswara GitHub Profile Details"
   />
 </p>
 
+## GitHub Statistics
+
 <p align="center">
   <img
     width="49%"
-    src="./profile-summary-card-output/tokyonight/3-stats.svg"
-    alt="GitHub Statistics"
+    src="https://raw.githubusercontent.com/PradnyaPrameswara/PradnyaPrameswara/main/profile-summary-card-output/tokyonight/3-stats.svg"
+    alt="Pradnya Prameswara GitHub Statistics"
   />
   <img
     width="49%"
-    src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
-    alt="Productive Time"
+    src="https://raw.githubusercontent.com/PradnyaPrameswara/PradnyaPrameswara/main/profile-summary-card-output/tokyonight/4-productive-time.svg"
+    alt="Pradnya Prameswara Productive Time"
   />
 </p>
 
@@ -76,20 +92,20 @@ My academic research explored an **LLM-based diagnostic assessment system** desi
 <p align="center">
   <img
     width="49%"
-    src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+    src="https://raw.githubusercontent.com/PradnyaPrameswara/PradnyaPrameswara/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
     alt="Languages by Repository"
   />
   <img
     width="49%"
-    src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+    src="https://raw.githubusercontent.com/PradnyaPrameswara/PradnyaPrameswara/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"
     alt="Languages by Commit"
   />
 </p>
 
 <p align="center">
   <sub>
-    Statistics include aggregated activity from eligible public and private repositories.
-    Private repository names and sensitive details remain hidden.
+    Statistics include eligible public and private repository activity.
+    Private repository names and sensitive information remain hidden.
   </sub>
 </p>
 
