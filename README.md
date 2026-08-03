@@ -53,15 +53,6 @@ abilities and support more personalized learning.
 - Explore AI and LLM applications in educational technology
 - Mentor students in C++ programming and competition preparation
 
-## Technology Stack
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,laravel,python,flask,mysql,postgresql,firebase,docker,git,github,figma,postman&perline=10"
-    alt="Technology Stack"
-  />
-</p>
-
 ## GitHub Activity
 
 <p align="center">
