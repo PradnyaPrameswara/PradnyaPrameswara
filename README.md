@@ -49,10 +49,6 @@ Alongside my development work, I am dedicated to knowledge sharing. I have pract
 
 I am currently seeking full-time opportunities as a Fullstack Developer, Frontend Developer, or Backend Engineer, where I can contribute to building efficient, scalable, and impactful technology solutions.
 
-
-➣ Portfolio: https://www.pradnyaprameswara.web.id/ 
-➣ GitHub: https://github.com/PradnyaPrameswara
-
 ## GitHub Activity
 
 <p align="center">
