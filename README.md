@@ -39,19 +39,19 @@
 
 ## About Me
 
-I am an **Informatics Education graduate** from
-**Universitas Pendidikan Ganesha**, with interests in fullstack development,
-software engineering, artificial intelligence, and educational technology.
+I am a recent Informatics Education graduate from Universitas Pendidikan Ganesha with a strong passion for fullstack web development and software engineering. I specialize in building responsive, maintainable, and user-focused software solutions that solve real-world problems.
 
-My academic research focused on developing an
-**LLM-based diagnostic assessment system** to identify students' initial
-abilities and support more personalized learning.
+My core expertise lies in designing and developing complete web applications. On the frontend, I focus on building structured, intuitive user interfaces utilizing reusable components to ensure clean architecture. On the backend, I am experienced in designing robust systems, developing APIs, managing databases, and orchestrating efficient application workflows.
 
-- Develop responsive and maintainable fullstack web applications
-- Build structured frontend interfaces with reusable components
-- Design backend systems, APIs, databases, and application workflows
-- Explore AI and LLM applications in educational technology
-- Mentor students in C++ programming and competition preparation
+During my academic journey, I developed a diagnostic assessment system designed to identify students' initial abilities. This project allowed me to apply my software engineering skills to create a practical, technology-driven solution for the education sector.
+
+Alongside my development work, I am dedicated to knowledge sharing. I have practical experience mentoring students in C++ programming, focusing on algorithmic logic, problem-solving, and competition preparation.
+
+I am currently seeking full-time opportunities as a Fullstack Developer, Frontend Developer, or Backend Engineer, where I can contribute to building efficient, scalable, and impactful technology solutions.
+
+
+➣ Portfolio: https://www.pradnyaprameswara.web.id/ 
+➣ GitHub: https://github.com/PradnyaPrameswara
 
 ## GitHub Activity
 
