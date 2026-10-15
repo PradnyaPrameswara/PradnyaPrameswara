@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Pradnya 👋</h1>
+<h1 align="center">Hi, I'm Pradnya</h1>
 
 <p align="center">
-  <strong>Fullstack Developer · Software Engineering Enthusiast</strong>
+  <strong>Full-Stack Web Developer</strong>
 </p>
 
 <p align="center">
-  Building responsive, maintainable, and user-focused software solutions.
+  Designing and engineering scalable, maintainable, and user-centric web applications.
 </p>
 
 <p align="center">
@@ -39,15 +39,9 @@
 
 ## About Me
 
-I am a recent Informatics Education graduate from Universitas Pendidikan Ganesha with a strong passion for fullstack web development and software engineering. I specialize in building responsive, maintainable, and user-focused software solutions that solve real-world problems.
+I am a Full-Stack Web Developer specialising in the end-to-end design, development, and deployment of modern web applications. My work focuses on translating complex requirements into reliable, high-performance software solutions.
 
-My core expertise lies in designing and developing complete web applications. On the frontend, I focus on building structured, intuitive user interfaces utilizing reusable components to ensure clean architecture. On the backend, I am experienced in designing robust systems, developing APIs, managing databases, and orchestrating efficient application workflows.
-
-During my academic journey, I developed a diagnostic assessment system designed to identify students' initial abilities. This project allowed me to apply my software engineering skills to create a practical, technology-driven solution for the education sector.
-
-Alongside my development work, I am dedicated to knowledge sharing. I have practical experience mentoring students in C++ programming, focusing on algorithmic logic, problem-solving, and competition preparation.
-
-I am currently seeking full-time opportunities as a Fullstack Developer, Frontend Developer, or Backend Engineer, where I can contribute to building efficient, scalable, and impactful technology solutions.
+On the front end, I craft structured, responsive interfaces using modular, component-driven architectures. On the back end, I engineer robust APIs, manage database systems, and optimise application workflows to ensure long-term scalability and maintainability.
 
 ## GitHub Activity
 
@@ -73,28 +67,48 @@ I am currently seeking full-time opportunities as a Fullstack Developer, Fronten
 
 <p align="center">
   <sub>
-    Public and anonymized private contributions from the last year.
+    Public and anonymised private contributions from the past year.
   </sub>
 </p>
 
 ## Most Used Languages
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://raw.githubusercontent.com/PradnyaPrameswara/PradnyaPrameswara/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
-    alt="Languages by Repository"
-  />
-  <img
-    width="49%"
-    src="https://raw.githubusercontent.com/PradnyaPrameswara/PradnyaPrameswara/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"
-    alt="Languages by Commit"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PradnyaPrameswara&theme=github_dark&title_color=39d353"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PradnyaPrameswara&theme=github&title_color=216e39"
+    />
+    <img
+      width="49%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PradnyaPrameswara&theme=github&title_color=216e39"
+      alt="Languages by Repository"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PradnyaPrameswara&theme=github_dark&title_color=39d353"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PradnyaPrameswara&theme=github&title_color=216e39"
+    />
+    <img
+      width="49%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PradnyaPrameswara&theme=github&title_color=216e39"
+      alt="Languages by Commit"
+    />
+  </picture>
 </p>
 
 <p align="center">
   <sub>
-    Language statistics are calculated from eligible public and private repositories.
+    Language statistics are calculated from eligible repositories.
     Private repository names and sensitive information remain hidden.
   </sub>
 </p>
@@ -102,5 +116,5 @@ I am currently seeking full-time opportunities as a Fullstack Developer, Fronten
 ---
 
 <p align="center">
-  <i>Building efficient, scalable, and meaningful technology solutions.</i>
+  <i>Engineering efficient, scalable, and reliable web solutions.</i>
 </p>
