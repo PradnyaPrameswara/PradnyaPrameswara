@@ -1,47 +1,6 @@
-<h1 align="center">Hi, I'm Pradnya</h1>
-
-<p align="center">
-  <strong>Full-Stack Web Developer</strong>
+<p align="justify">
+  Yo, what's up, I'm Pradnya, a Full-Stack Web Developer. Look, every piece of software starts out with the same question, right like, how do we take some crazy, complicated requirement and cook it down into something super clean and effortless? Half-baked, sloppy code? Hell nah, man, that is not how we roll here. My work is all about bridging the gap between abstract ideas in your head and actual, living web applications on the screen. Whatever starts out as some rough architectural blueprint, I build it out into structured, modular front-end interfaces designed to feel natural and crazy responsive right from the very first click. Beneath the surface, yo, that is where the real magic happens within the logic holding the whole system together. I am in the lab engineering resilient back-end services, structuring dependable databases, and dialling in the API workflows so every single process runs with quiet, pure precision and zero drama. Whether I am shaping the visual layer up front or optimising the core engine behind the scenes, the focus stays the same, cooking up 99.1% pure, scalable, and maintainable web solutions built to endure. Yeah, science, bitch!
 </p>
-
-<p align="center">
-  Designing and engineering scalable, maintainable, and user-centric web applications.
-</p>
-
-<p align="center">
-  <a href="mailto:agungpradnya7@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/pradnyaprameswara/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://www.instagram.com/agungame/">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-  <a href="https://www.pradnyaprameswara.web.id/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=google-chrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-</p>
-
----
-
-## About Me
-
-I am a Full-Stack Web Developer specialising in the end-to-end design, development, and deployment of modern web applications. My work focuses on translating complex requirements into reliable, high-performance software solutions.
-
-On the front end, I craft structured, responsive interfaces using modular, component-driven architectures. On the back end, I engineer robust APIs, manage database systems, and optimise application workflows to ensure long-term scalability and maintainability.
 
 ## GitHub Activity
 
@@ -63,12 +22,6 @@ On the front end, I craft structured, responsive interfaces using modular, compo
       />
     </picture>
   </a>
-</p>
-
-<p align="center">
-  <sub>
-    Public and anonymised private contributions from the past year.
-  </sub>
 </p>
 
 ## Most Used Languages
@@ -107,14 +60,28 @@ On the front end, I craft structured, responsive interfaces using modular, compo
 </p>
 
 <p align="center">
-  <sub>
-    Language statistics are calculated from eligible repositories.
-    Private repository names and sensitive information remain hidden.
-  </sub>
-</p>
-
----
-
-<p align="center">
-  <i>Engineering efficient, scalable, and reliable web solutions.</i>
+  <a href="mailto:agungpradnya7@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/pradnyaprameswara/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://www.instagram.com/agungame/">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+  <a href="https://www.pradnyaprameswara.web.id/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=google-chrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
 </p>
